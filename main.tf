@@ -1,6 +1,6 @@
 terraform {
   # Require Terraform version 0.13.x (recommended)
-  required_version = "1.1.4"
+  required_version = "1.2.3"
 
   # Require the latest 2.x version of the New Relic provider
   required_providers {
